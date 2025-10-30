@@ -1,0 +1,454 @@
+0	jordan,michael				 XXXXXXXX
+1	o'neal,shaquille    	45.608           XXXXXXXX
+2	webber,chris        	42.671           XXXXXXXX
+3	iverson,allen       	40.338           XXXXXXXX
+4	mcgrady,tracy       	40.156           XXXXXXXX
+5	carter,vince        	39.573           XXXXXXXX
+6	bryant,kobe         	39.309           XXXXXXXX
+7	walker,antoine      	39.049           XXXXXXXX
+8	garnett,kevin       	38.901           XXXXXXXX
+9	stackhouse,jerry    	38.700           XXXXXXXX
+10	duncan,tim          	37.671           XXXXXXXX
+11	payton,gary         	36.354           XXXXXXXX
+12	pierce,paul         	35.829           XXXXXXXX
+13	jamison,antawn      	35.707           XXXXXXXX
+14	nowitzki,dirk       	35.195           XXXXXXXX
+15	malone,karl         	34.827           XXXXXXXX
+16	mcdyess,antonio     	34.743           XXXXXXXX
+17	marbury,stephon     	34.418           XXXXXXXX
+18	francis,steve       	33.763           XXXXXXXX
+19	allen,ray           	33.537           XXXXXXXX
+20	brand,elton         	33.054           XXXXXXXX
+21	mashburn,jamal      	32.961		 XXXXXXXX
+22	kidd,jason          	32.701           XXXXXXXX
+23	fortson,danny       	32.500	 	 XXXXXXXX
+24	robinson,glenn      	32.053           XXXXXXXX
+25	abdur-rahim,shar    	32.049           XXXXXXXX
+26	marion,shawn        	31.759           XXXXXXXX
+27	finley,michael      	31.720           XXXXXXXX
+28	wallace,rasheed     	31.299           XXXXXXXX
+29	rose,jalen          	30.944           XXXXXXXX
+30	vanexel,nick        	30.268		 XXXXXXXX
+31	odom,lamar          	30.263           XXXXXXXX
+32	stojakovic,predr    	29.720           XXXXXXXX
+33	armstrong,darrel    	28.627		 XXXXXXXX
+34	cassell,sam         	28.382		 XXXXXXXX
+35	brandon,terrell     	28.090		 XXXXXXXX
+36	terry,jason         	27.951		 XXXXXXXX
+37	mason,anthony       	27.925		 XXXXXXXX
+38	bibby,mike          	27.671           XXXXXXXX
+39	mobley,cuttino      	27.405		 XXXXXXXX
+40	miller,reggie       	27.222		 XXXXXXXX
+41	miller,andre        	26.976		 XXXXXXXX
+42	davis,baron         	26.854           XXXXXXXX
+43	mercer,ron          	26.705		 XXXXXXXX
+44	jones,eddie         	26.667           XXXXXXXX
+45	camby,marcus        	26.571		 XXXXXXXX
+46	robinson,david      	26.413           XXXXXXXX
+47	howard,juwan        	26.272		 XXXXXXXX
+48	hughes,larry        	26.180		 XXXXXXXX
+49	vanhorn,keith       	26.163		 XXXXXXXX
+50	mutombo,dikembe     	25.707           XXXXXXXX
+51	davis,antonio       	25.641           XXXXXXXX
+52	hill,grant          	25.500           XXXXXXXX
+53	nash,steve          	25.500		 XXXXXXXX
+54	o'neal,jermaine     	25.296           XXXXXXXX
+55	wesley,david        	25.232		 XXXXXXXX
+56	sprewell,latrell    	25.156		 XXXXXXXX
+57	hardaway,tim        	25.104		 XXXXXXXX
+58	lewis,rashard       	24.962           XXXXXXXX
+59	grant,brian         	24.756		 XXXXXXXX
+60	lafrentz,raef       	24.603           XXXXXXXX
+61	houston,allan       	24.513		 XXXXXXXX
+62	anderson,derek      	24.427		 XXXXXXXX
+63	robinson,cliff      	24.256		 XXXXXXXX
+64	ratliff,theo        	23.660		 XXXXXXXX
+65	blaylock,mookie     	23.507
+66	wallace,ben         	23.288		 XXXXXXXX
+67	weatherspoon,cla    	23.183		 XXXXXXXX
+68	marshall,donyell    	23.148		 XXXXXXXX
+69	stockton,john       	23.110		 XXXXXXXX
+70	dickerson,michae    	23.100		 XXXXXXXX
+71	divac,vlade         	23.086		 XXXXXXXX
+72	hamilton,richard    	23.038           XXXXXXXX
+73	campbell,elden      	22.949		 XXXXXXXX
+74	mourning,alonzo     	22.846           XXXXXXXX
+75	stoudamire,damon    	22.463		 XXXXXXXX
+76	oakley,charles      	22.423		 XXXXXXXX
+77	richmond,mitch      	22.405		 XXXXXXXX
+78	szczerbiak,wally    	22.341		 XXXXXXXX
+79	christie,doug       	22.321		 XXXXXXXX
+80	martin,kenyon       	22.074		 XXXXXXXX
+81	olajuwon,hakeem     	21.879           XXXXXXXX
+82	pippen,scottie      	21.672		 XXXXXXXX
+83	mcinnis,jeff        	21.407		 XXXXXXXX
+84	jackson,marc        	21.375		 XXXXXXXX
+85	best,travis         	21.351		 XXXXXXXX
+86	wright,lorenzen     	20.887		 XXXXXXXX
+87	smith,joe           	20.667		 XXXXXXXX
+88	fisher,derek        	20.600
+89	mckie,aaron         	20.132		 XXXXXXXX
+90	brown,p.j.          	20.087
+91	patterson,ruben     	20.079		 XXXXXXXX
+92	thomas,tim          	20.013		 XXXXXXXX
+93	artest,ron          	19.868		 XXXXXXXX
+94	wells,bonzi         	19.827		 XXXXXXXX
+95	snow,eric           	19.820
+96	smith,steve         	19.790		 XXXXXXXX
+97	hardaway,anferne    	19.500		 XXXXXXXX
+98	russell,bryon       	19.500
+99	mills,chris         	19.467
+100	rogers,rodney       	19.268
+101	taylor,maurice      	19.159		 XXXXXXXX
+102	murray,lamond       	19.128		 XXXXXXXX 
+103	outlaw,charles      	19.100
+104	jackson,mark        	19.072
+105	miller,mike         	19.061		 XXXXXXXX
+106	lenard,voshon       	19.012
+107	williams,aaron      	18.976		
+108	sura,bob            	18.943
+109	ilgauskas,zydrun    	18.792
+110	atkins,chucky       	18.741
+111	hoiberg,fred        	18.689
+112	baker,vin           	18.434		 XXXXXXXX
+113	hill,tyrone         	18.421		 XXXXXXXX
+114	kukoc,toni          	18.415		 XXXXXXXX
+115	thomas,kurt         	18.312		 XXXXXXXX
+116	williams,alvin      	18.293		 XXXXXXXX
+117	ewing,patrick       	18.101		 XXXXXXXX
+118	miller,brad         	18.070		 XXXXXXXX
+119	grant,horace        	18.013
+120	delk,tony           	17.939
+121	johnson,larry       	17.800
+122	rice,glen           	17.800		 XXXXXXXX
+123	fox,rick            	17.744
+124	williams,jason      	17.688		 XXXXXXXX
+125	lynch,george        	17.683
+126	jackson,jimmy       	17.661
+127	gatling,chris       	17.324
+128	sabonis,arvydas     	17.311
+129	hunter,lindsey      	17.244
+130	bradley,shawn       	17.098
+131	ellis,laphonso      	17.061
+132	peeler,anthony      	17.053
+133	barry,brent         	17.045		 XXXXXXXX
+134	willis,kevin        	17.013		 XXXXXXXX
+135	harpring,matt       	16.946
+136	miles,darius        	16.877		 XXXXXXXX
+137	stith,bryant        	16.872
+138	mccloud,george      	16.737
+139	white,jahidi        	16.632
+140	strickland,rod      	16.593
+141	williamson,corli    	16.580
+142	davis,dale          	16.568		 XXXXXXXX
+143	posey,james         	16.537
+144	gill,kendall        	16.484		 XXXXXXXX
+145	eisley,howard       	16.451
+146	croshere,austin     	16.309		 XXXXXXXX
+147	whitney,chris       	16.271
+148	henderson,alan      	16.151
+149	harris,lucious      	16.137
+150	piatkowski,eric     	16.123
+151	daniels,antonio     	15.848		 XXXXXXXX
+152	knight,brevin       	15.604
+153	foyle,adonal        	15.569
+154	reeves,bryant       	15.493
+155	anderson,shandon    	15.476
+156	laettner,christi    	15.397
+157	clark,keon          	15.333		XXXXXXXX
+158	olowokandi,micha    	15.134		XXXXXXXX
+159	billups,chauncey    	15.000		XXXXXXXX
+160	coleman,derrick     	14.971		XXXXXXXX
+161	newman,johnny       	14.780
+162	ward,charlie        	14.754
+163	maggette,corey      	14.754		XXXXXXXX
+164	peterson,morris     	14.738		XXXXXXXX
+165	feick,jamie         	14.500
+166	starks,john         	14.453
+167	dampier,erick       	14.442
+168	rose,malik          	14.404
+169	williams,walt       	14.222
+170	bowen,bruce         	14.207
+171	pollard,scot        	14.143
+172	harrington,othel    	14.095
+173	mcleod,roshown      	14.000
+174	fizer,marcus        	13.986
+175	battie,tony         	13.975
+176	potapenko,vitaly    	13.902
+177	anderson,kenny      	13.879
+178	williams,jerome     	13.780
+179	thomas,kenny        	13.703
+180	elliott,sean        	13.692
+181	cummings,vonteeg    	13.409
+182	porter,terry        	13.387
+183	porter,chris        	13.373
+184	mohammed,nazr       	13.224		XXXXXXXXXX
+185	harrington,al       	13.218
+186	nesby,tyrone        	13.161
+187	lopez,felipe        	13.129
+188	jackson,stephen     	13.052
+189	harper,ron          	12.915
+190	garrity,pat         	12.803
+191	williams,scott      	12.758		 XXXXXXXX
+192	caffey,jason        	12.743
+193	richardson,quent    	12.724		 XXXXXXXX
+194	jackson,bobby       	12.696
+195	smith,michael       	12.608
+196	shaw,brian          	12.550
+197	alexander,courtn    	12.538		 XXXXXXXX
+198	mihm,chris          	12.458		 XXXXXXXX
+199	maloney,matt        	12.400
+200	norris,moochie      	12.366
+201	johnson,ervin       	12.354
+202	person,wesley       	12.273		 XXXXXXXX
+203	buckner,greg        	12.216
+204	davis,hubert        	12.212
+205	carter,anthony      	12.208
+206	gugliotta,tom       	12.158		 XXXXXXXX
+207	booth,calvin        	12.145
+208	jones,damon         	12.028
+209	robinson,eddie      	11.881		 XXXXXXXX
+210	long,grant          	11.848
+211	drew,bryce          	11.729
+212	williams,shammon    	11.638
+213	barros,dana         	11.633
+214	horry,robert        	11.570
+215	majerle,dan         	11.528
+216	pack,robert         	11.514
+217	brown,dee           	11.429
+218	traylor,robert      	11.314
+219	davis,emanual       	11.306
+220	childs,chris        	11.286
+221	amaechi,john        	11.280
+222	el-amin,khalid      	11.280
+223	vaughn,jacque       	11.256
+224	blount,corie        	11.250
+225	ostertag,greg       	11.136
+226	williams,eric       	11.123
+227	rider,isaiah        	11.104		XXXXXXXX
+228	johnson,avery       	11.091
+229	doleac,michael      	11.000		XXXXXXXX
+230	manning,danny       	10.927
+231	robinson,larry      	10.912
+232	kemp,shawn          	10.853		XXXXXXXX
+233	overton,doug        	10.667
+234	polynice,olden      	10.667
+235	boykins,earl        	10.500
+236	rooks,sean          	10.390
+237	owens,billy         	10.356
+238	geiger,matt         	10.314
+239	mason,desmond       	10.244		XXXXXXXX
+240	strickland,erick    	10.220
+241	bullard,matt        	10.148
+242	ferry,danny         	10.137
+243	mullin,chris        	10.050
+244	ceballos,cedric     	10.000
+245	palacio,milt        	9.914
+246	ruffin,michael      	9.822
+247	swift,stromile      	9.787		XXXXXXXX
+248	vanterpol,david     	9.727
+249	turkoglu,hidaye     	9.716
+250	foster,jeff         	9.690
+251	glover,dion         	9.684
+252	austin,isaac        	9.635
+253	cato,kelvin         	9.600
+254	guyton,a.j.         	9.545
+255	eschmeyer,evan      	9.500
+256	crawford,chris      	9.489
+257	nesterovic,rados    	9.479
+258	walker,samaki       	9.459
+259	magloire,jamaal     	9.405
+260	jones,popeye        	9.333
+261	langdon,trajan      	9.308
+262	elie,mario          	9.279
+263	dooling,keyon       	9.224
+264	barry,jon           	9.145
+265	parks,cherokee      	9.138
+266	curry,dell          	9.113
+267	brown,randy         	9.111
+268	tsakalidis,iako     	9.053
+269	ham,darvin          	9.034
+270	profit,laron        	8.943
+271	augmon,stacey       	8.924
+272	douglas,sherman     	8.898
+273	moore,mikki         	8.877
+274	mccoy,jelani        	8.814
+275	blount,mark         	8.812
+276	gill,eddie          	8.750
+277	skinner,brian       	8.692
+278	green,a.c.          	8.683
+279	cleaves,mateen      	8.679
+280	rogers,carlos       	8.667
+281	abdul-rauf,mahmo    	8.659
+282	crawford,jamal      	8.607
+283	curry,michael       	8.559
+284	massenburg,tony     	8.500
+285	jones,jumaine       	8.477
+286	johnson,dermarr     	8.462
+287	williams,monty      	8.451
+288	wallace,john        	8.450
+289	anthony,greg        	8.448
+290	penberthy,mike      	8.415
+291	coles,bimbo         	8.383
+292	funderburke,lawr    	8.322
+293	declercq,andrew     	8.239
+294	slater,reggie       	8.182
+295	perkins,sam         	8.141
+296	schrempf,detlef     	8.115
+297	tabak,zan           	8.091
+298	strong,derek        	8.071
+299	strickland,mark     	8.036
+300	wingate,david       	8.000
+301	hudson,troy         	7.920
+302	maxwell,vernon      	7.884
+303	king,gerard         	7.867
+304	reid,don            	7.723
+305	murray,tracy        	7.647
+306	davis,ricky         	7.571
+307	buford,rodney       	7.426
+308	edney,tyus          	7.375
+309	benjamin,corey      	7.354
+310	stepania,valdimi    	7.241
+311	vaught,loy          	7.176
+312	henderson,cedric    	7.164
+313	trent,gary          	7.091
+314	delnegro,vinny      	7.046
+315	day,todd            	6.968
+316	macculloch,todd     	6.937		XXXXXXXXXX
+317	house,eddie         	6.840
+318	herren,chris        	6.800
+319	brown,chucky        	6.731
+320	kersey,jerome       	6.727
+321	garrett,dean        	6.686
+322	mcpherson,paul      	6.600
+323	goldwire,anthony    	6.550
+324	carr,chris          	6.543
+325	abdul-wahad,tari    	6.517
+326	burrell,scott       	6.500
+327	edwards,kevin       	6.500
+328	sundov,bruno        	6.455
+329	mottola,hanno       	6.452
+330	najera,eduardo      	6.450
+331	buechler,jud        	6.386
+332	maclean,don         	6.375
+333	bowen,ryan          	6.368
+334	nailon,lee          	6.357
+335	hawkins,hersey      	6.356
+336	keefe,adam          	6.299
+337	ollie,kevin         	6.286
+338	mckey,derrick       	6.258
+339	medvedenko,stan     	6.143
+340	thorpe,otis         	6.102
+341	garner,chris        	6.000
+342	zhizhi,wang         	6.000
+343	mcclintock,dan      	5.833
+344	pope,mark           	5.810
+345	mitchell,sam        	5.780
+346	lewis,quincy        	5.743
+347	montross,eric       	5.704
+348	tarlac,dragan       	5.674
+349	cheaney,calbert     	5.667
+350	ekezie,obinna       	5.576
+351	lue,tyronn          	5.526
+352	benoit,david        	5.510
+353	bowdler,cal         	5.500
+354	kerr,steve          	5.491
+355	dudley,chris        	5.472
+356	george,devean       	5.458
+357	causwell,duane      	5.387
+358	curley,bill         	5.200
+359	bender,jonathan     	5.136		XXXXXXXX
+360	smith,mike          	5.118
+361	santiago,daniel     	5.074
+362	perry,elliot        	5.059
+363	griffin,adrian      	5.023
+364	hamilton,zendon     	5.000
+365	fuller,todd         	4.900
+366	alston,rafer        	4.784
+367	davis,terry         	4.737
+368	collier,jason       	4.696
+369	johnson,anthony     	4.679
+370	smith,tony          	4.667
+371	martin,darrick      	4.645
+372	smith,jabari        	4.556
+373	mccarty,walter      	4.517
+374	alexander,cory      	4.500
+375	longley,luc         	4.480
+376	avery,william       	4.473
+377	david,kornel        	4.444
+378	mcilvaine,jim       	4.444
+379	anderson,nick       	4.429
+380	harvey,antonio      	4.417
+381	dial,derrick        	4.394
+382	madsen,mark         	4.329
+383	foster,greg         	4.323
+384	recasner,eldridg    	4.302
+385	voskuhl,jake        	4.250
+386	jackson,jaren       	4.188
+387	brunson,rick        	4.182
+388	langhi,dan          	4.091
+389	oyedeji,olumide     	4.000
+390	thomas,jamel        	4.000
+391	west,doug           	4.000
+392	woklowyski,ruben    	4.000
+393	padgett,scott       	3.852
+394	garces,ruben        	3.846
+395	spencer,felton      	3.833
+396	crotty,john         	3.806
+397	cardinal,brian      	3.800
+398	robinson,jamal      	3.667
+399	przybilla,joel      	3.636
+400	newble,ira          	3.630
+401	scott,shawnelle     	3.593
+402	barkley,erick       	3.500
+403	goodrich,steve      	3.500
+404	price,brent         	3.500
+405	reid,j.r.           	3.500
+406	robinson,james      	3.500
+407	mills,terry         	3.429
+408	bagaric,dalibor     	3.343
+409	samake,soumaila     	3.294
+410	postell,lavor       	3.115
+411	perdue,will         	3.000
+412	redd,michael        	3.000
+413	stevenson,deshaw    	3.000
+414	james,tim           	2.933
+415	moiso,jerome        	2.875
+416	sanchez,pepe        	2.828
+417	grant,gary          	2.750
+418	bohannon,etdrick    	2.667
+419	bowman,ira          	2.667
+420	stewart,michael     	2.538
+421	corbin,tyrone       	2.400
+422	hawkins,michael     	2.400
+423	colson,sean         	2.385
+424	jacobson,sam        	2.357
+425	bryant,mark         	2.278
+426	harvey,donnell      	2.278
+427	ellison,pervis      	2.222
+428	knight,travis       	2.067
+429	bogues,muggsy       	2.000
+430	ndiaye,mamadou      	2.000
+431	coker,john          	1.333
+432	hammonds,tom        	1.286
+433	bell,raja           	1.200
+434	long,art            	1.111
+435	hart,jason          	1.000
+436	joseph,garth        	1.000
+437	livingston,randy    	1.000
+438	miller,anthony      	0.750
+439	panko,andy          	0.000
+440	roberson,terranc    	0.000
+441	ketner,lari         	-0.333
+442	griffin,eddie		-0.5	 	 XXXXXXX
+443	richardson,jason	-0.5		 XXXXXXX
+444 	curry,eddie		-0.5		 XXXXXXX
+445	brown,kwame		-0.5		 XXXXXXX
+446	battier,shane		-0.5		 XXXXXXX
+447	claxson,speedy		-0.5		 XXXXXXX
+448	kittles,kerry		-0.5		 XXXXXXX
+449	gasol,pau		-0.5		 XXXXXXX
+450	white,rodney		-0.5		 XXXXXXX
+451	chandler,tyson		-0.5		 XXXXXXX
+452	murphy,troy		-0.5		 XXXXXXX
+452	johnson,joe		-0.5		 XXXXXXX
